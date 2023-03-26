@@ -1,0 +1,141 @@
+ *{
+    margin: 0;
+    padding: 0;
+    
+    ;
+    
+}
+section{
+    margin-left: 250px; 
+}
+
+
+.par{
+    
+    margin-top: 104px;
+    max-width: 500px;
+    color: grey;
+    font-size: 20px;
+    line-height: 35px;
+    font-size: 120%;
+}
+.par2{
+    margin-top: -92px;
+    max-width: 500px;
+    margin-left: 530px;
+    color: grey;
+    
+    line-height: 35px;
+    font-size: 120%;
+   
+}
+
+.nwen-page{
+    margin-top: 105px;
+    color: rgb(3, 201, 136);
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 20px;
+
+}
+.pr{
+   background-color: #eee;
+   width: 20px auto;
+   display: flex;
+   padding: 2px;
+   margin-top: 10px;
+   text-align: center;
+
+
+}
+.sm{
+ margin: 20px auto;
+ padding: 50px;
+ background-color: black;
+ display: flex;
+ flex-direction: row;
+
+ 
+
+
+ 
+
+ 
+
+}
+.sm p{
+    font-size: 130%;
+    color:rgb(3, 201, 136) ;
+      margin: 20px; 
+      display: flex;
+     
+    }
+.p1{
+    max-width: 280px;
+    font-size: 30px;
+    background-color:rgb(3, 201, 136) ;
+    color: rgb(255, 254, 254);
+    padding: 40px;
+    margin-top: -100px;
+    border-radius: 20px; 
+    
+}
+    
+    .pr2{
+        background-color: rgb(255, 255, 255);
+    }
+    .pr2 div{
+       color: rgb(3, 201, 136); 
+        text-align: center;
+        margin: 50px auto;
+        font-size: 130%;
+    }
+
+.p2{
+    max-width: 280px;
+    margin-left: 400px;
+    font-size: 30px;
+    margin-top: -250px;
+    background-color: blue;
+    color: white;
+    padding: 40px;
+    border-radius: 20px;
+    
+}
+.p3{
+    max-width: 280px;
+    margin-left:800px ;
+    font-size: 30px;
+    margin-top: -247px;
+    background-color: black;
+    color: white;
+    padding: 40px;
+    border-radius: 20px;
+   
+}
+.bac{
+    margin-top: 200px;
+}
+.img1{
+    margin-top: -1000px;
+    margin-left: -1px;
+    width: 20%;
+    }
+.img2{
+    width: 20%;
+}
+.img3{
+    width: 20%;
+}
+.p4{
+    max-width: 250px;
+    color: rgb(3, 201, 136);
+    font-size: 40px;
+    margin-top: 100px;
+} 
+.p{
+    display: flex;
+    justify-content: end;
+    
+}
+.img-page{
